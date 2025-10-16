@@ -1,4 +1,4 @@
-// src/components/Spdata.jsx
+
 import React , {useState , useEffect, useRef} from 'react'
 import Header from '../header/Header'
 import Mydate from '../date/Mydate';

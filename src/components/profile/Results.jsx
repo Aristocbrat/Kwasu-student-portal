@@ -207,7 +207,7 @@ export default function Results() {
 
             {/* Previous and Next Buttons - Fully Responsive */}
             <div className="p-2 xxs:p-3 xs:p-4 sm:p-4 flex flex-col xxs:flex-row gap-3 xxs:gap-4 xs:gap-5 items-center justify-center">
-                <a href="/spdata" className="w-full xxs:w-auto">
+                <a href="/Spdata" className="w-full xxs:w-auto">
                     <button className="btn group bg-green-700 border-none text-white font-bold duration-300 hover:text-yellow-300 w-full xxs:w-auto text-xs xxs:text-sm xs:text-base py-2 xxs:py-3 px-3 xxs:px-4 xs:px-6">
                         <span className="group-hover:-translate-x-2 duration-300 text-base xxs:text-lg xs:text-xl">
                             <FaChevronLeft />

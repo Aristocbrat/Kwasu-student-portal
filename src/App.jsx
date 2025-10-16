@@ -14,7 +14,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Intro />} />
          <Route path="/Home" element={<Home />} />
-         <Route path="/spdata" element={<Spdata />} />
+         <Route path="/Spdata" element={<Spdata />} />
         <Route path="/Results" element={<Results />} />
       </Routes>
     </UserContext.Provider>

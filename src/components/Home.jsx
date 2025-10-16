@@ -39,7 +39,7 @@ const PassportUploader = ({ profile, isProfileSaved }) => {
                             {/* Label */}
                             <span className="flex-shrink-0">Fullname:</span> 
                             {/* Grouping the name fields horizontally */}
-                            <span className="flex flex-row flex-wrap gap-x-1 flex-shrink-0">
+                            <span className="flex flex-row flex-wrap gap-x-2 flex-shrink-0">
                                 <span>{profile.surname}</span>
                                 <span>{profile.middleName}</span>
                                 <span>{profile.lastName}</span>
@@ -403,7 +403,7 @@ const Home = () => {
                             Previous page
                         </button>
                     </a>
-                    <a href="/spdata">
+                    <a href="/Spdata">
                         <button className="btn group bg-green-700 border-none text-white font-bold duration-300 hover:text-yellow-300 text-sm sm:text-base">
                             Next page
                         <span className='group-hover:translate-x-2 duration-300 text-xl'><FaChevronRight/></span> </button>

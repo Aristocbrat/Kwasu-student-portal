@@ -1,6 +1,6 @@
 // src/components/ui/PencilLoader.jsx
 import React from 'react';
-import './PencilLoader.css'; // ✅ External CSS for animation
+import './Pencilloader.css'; // ✅ External CSS for animation
 
 const PencilLoader = () => (
   <div className="flex justify-center items-center h-screen w-full bg-white">

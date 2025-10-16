@@ -403,7 +403,7 @@ const Home = () => {
                             Previous page
                         </button>
                     </a>
-                    <a href="/Spdata">
+                    <a href="/spdata">
                         <button className="btn group bg-green-700 border-none text-white font-bold duration-300 hover:text-yellow-300 text-sm sm:text-base">
                             Next page
                         <span className='group-hover:translate-x-2 duration-300 text-xl'><FaChevronRight/></span> </button>
